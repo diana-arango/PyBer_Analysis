@@ -12,7 +12,7 @@ d.	Similarly, the average fare per ride and driver are considerably higher in ru
 https://github.com/diana-arango/PyBer_Analysis/blob/main/Analysis/PyBer%20summary%20DataFrame.jpg
 
  
-2.	Based on the multiple-line chart, it can be determined that the total fares performance in each city type is constant during the studied period. A pick in the values of total fares per city was presented during the end of February, the rest of the year looked stable, only showing some volatility for the urban cities but not out of the range of $2000 to $2500 as its maximum. Nevertheless, The discrepancies among cities is impressive. Rural cities have the poorest performance in comparison with urban cities, tending to lower further in time. Suburban cities however, maintained their middle position, commiting their fares between $700 to $1500; not presenting the lowest total rate as rural cities but either close to urban cities counts.
+2.	Based on the multiple-line chart, it can be determined that the total fares performance in each city type is constant during the studied period. A pick in the values of total fares per city was presented during the end of February, the rest of the year looked stable, only showing some volatility for the urban cities but not out of the range of $2000 to $2500 as its maximum. Nevertheless, The discrepancy among cities is impressive. Rural cities have the poorest performance in comparison with urban cities, tending to lower further in time. Suburban cities however, maintained their middle position, committing their fares between $700 to $1500; not presenting the lowest total rate as rural cities but either close to urban cities counts.
 https://github.com/diana-arango/PyBer_Analysis/blob/main/Analysis/pyber_sum_fares_week.plot.jpg
 
  
